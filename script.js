@@ -26,6 +26,7 @@ function fetchData(url) {
                 //process returned data and print to page
                 .then((data) => {
                         console.log(data);
+
                         const degrees = data.my_degrees;
                         for (var i = 0; i < degrees.length; i++) {
                                 let school = degrees[i].degree.school;
