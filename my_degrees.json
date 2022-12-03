@@ -1,0 +1,28 @@
+{
+	"my_degrees": [
+        {
+			"degree": {
+				"school": "Shanghai University",
+				"major": "International Trade and Economy",
+				"type": "BS",
+				"year_conferred": 2017
+			}
+		},
+		{
+			"degree": {
+				"school": "University of Maryland",
+				"major": "Marketing Analytics",
+				"type": "MS",
+				"year_conferred": 2018
+			}
+		},
+		{
+			"degree": {
+				"school": "Boston University",
+				"major": "Software Development",
+				"type": "MS",
+				"year_conferred": 2024
+			}
+		}
+	]
+}
